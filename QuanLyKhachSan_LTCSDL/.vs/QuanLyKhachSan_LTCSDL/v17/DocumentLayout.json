@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\quanlykhachsan_ltcsdl\\formqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\quanlykhachsan_ltcsdl\\formqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\quanlykhachsan_ltcsdl\\formqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\quanlykhachsan_ltcsdl\\formqlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formqlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\quanlykhachsan_ltcsdl\\formnhanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formnhanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\quanlykhachsan_ltcsdl\\formqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172411C-5E8A-4CE2-AF0C-08EB1EB371A1}|DAL\\DAL.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172411C-5E8A-4CE2-AF0C-08EB1EB371A1}|DAL\\DAL.csproj|solutionrelative:dal\\khachhangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\quanlykhachsan_ltcsdl\\formqlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formqlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\quanlykhachsan_ltcsdl\\formnhanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formnhanphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87E5112-8EDE-4AAB-AFBE-B6DCB681C5E0}|DTO\\DTO.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87E5112-8EDE-4AAB-AFBE-B6DCB681C5E0}|DTO\\DTO.csproj|solutionrelative:dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\quanlykhachsan_ltcsdl\\formchitietdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formchitietdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\quanlykhachsan_ltcsdl\\formqlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formqlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B172411C-5E8A-4CE2-AF0C-08EB1EB371A1}|DAL\\DAL.csproj|c:\\users\\vanta\\source\\repos\\quanlykhachsan_ltcsdl\\dal\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B172411C-5E8A-4CE2-AF0C-08EB1EB371A1}|DAL\\DAL.csproj|solutionrelative:dal\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\quanlykhachsan_ltcsdl\\formquanlyks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formquanlyks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\quanlykhachsan_ltcsdl\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9919091C-636C-421C-A837-F1079F4A15B8}|QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL.csproj|solutionrelative:quanlykhachsan_ltcsdl\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormQLNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormQLNhanVien.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLNhanVien.cs",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormQLNhanVien.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowIIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:33:02.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormQLNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormQLNhanVien.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormQLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:09:45.17Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormQLKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormQLKhachHang.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLKhachHang.cs",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormQLKhachHang.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwHIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:52:28.558Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNhanPhong.cs",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormNhanPhong.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormNhanPhong.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormNhanPhong.cs",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormNhanPhong.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADgv1UAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:19:04.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\DTO\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DTO\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\DTO\\KhachHang.cs",
+              "RelativeToolTip": "DTO\\KhachHang.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:00:17.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHangDAL.cs",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\DAL\\KhachHangDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHangDAL.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\DAL\\KhachHangDAL.cs",
+              "RelativeToolTip": "DAL\\KhachHangDAL.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAhwEsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:46:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormQLPhong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLPhong.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormQLPhong.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLPhong.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormQLPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:36:25.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormQLPhong.cs",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLPhong.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormQLPhong.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLPhong.cs",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormQLPhong.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAhwFkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:19:07.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\DAL\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DAL\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\DAL\\DBConnect.cs",
+              "RelativeToolTip": "DAL\\DBConnect.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:49:34.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormQLKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormQLKhachHang.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLKhachHang.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormQLKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:09:24.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormNhanPhong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormNhanPhong.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormNhanPhong.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormNhanPhong.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormNhanPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:08:09.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormChiTietDatPhong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormChiTietDatPhong.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormChiTietDatPhong.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormChiTietDatPhong.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormChiTietDatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:06:56.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormQLHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormQLHoaDon.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQLHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormQLHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:12:24.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T03:56:18.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormQuanLyKS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQuanLyKS.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan_LTCSDL\\FormQuanLyKS.cs",
+              "ToolTip": "C:\\Users\\vanta\\source\\repos\\QuanLyKhachSan_LTCSDL\\QuanLyKhachSan_LTCSDL\\FormQuanLyKS.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan_LTCSDL\\FormQuanLyKS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:53:44.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
